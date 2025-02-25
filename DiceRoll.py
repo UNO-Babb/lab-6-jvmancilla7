@@ -20,7 +20,7 @@ def main():
   dice = 2
   for count in rolls:
     print(dice, ":", count)
-    dice= dice + 1
+    dice = dice + 1
 
 if __name__ == '__main__':
   main()
